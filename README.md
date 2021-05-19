@@ -2,6 +2,8 @@
 
 Gestión de reservas mesas de restaurante hecho en javascript usando indexeddb como base de datos
 
+https://youtu.be/zarbZsHVmK0
+
 https://diegodelias.github.io/gestion-reservas-restaurante-javascript/
 
 
